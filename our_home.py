@@ -1,12 +1,12 @@
 '''我们的首页'''
 import streamlit as st
 
-st.write(':orange[:sunglasses: PythonXXX班级的根据地 :sunglasses:]')
+st.write(':orange[:sunglasses: Python创赛营23号营期班级的根据地 :sunglasses:]')
 
 st.image("logo.png")
 st.write('-----------------------------------------------')
 st.text(
-'''这里是PythonXXX班级的根据地。由XXX老师和他的同学们一同创建。
+'''这里是Python创赛营23号营期班级的根据地。由XXX老师和他的同学们一同创建。
 你是否想要了解互联网知识，探索网络的奥秘和和魅力？
 在这门课程中，我们一起深度畅游网络世界，学习新的超级工具，
 创建和运行自己的网页应用，添加界面元素，设计交互功能，收集和掌握数据。
